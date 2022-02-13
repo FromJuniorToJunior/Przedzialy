@@ -1,5 +1,5 @@
 # Przedzialy
-sections
+# sections
 Należysz do zespołu programistycznego pracującego nad rozbudowanym projektem. Na serwerze 
 działają usługi generujące cały czas pliki w odpowiednich miejscach na dysku. Jest tam też usługa 
 webowa, która pozwala osobie z zewnątrz pobrać pliki z wybranego przedziału czasowego i odczytać 
