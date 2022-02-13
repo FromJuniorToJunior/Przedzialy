@@ -21,9 +21,9 @@ może wystarczą te, które już są w pamięci RAM) i wypisać te przedziały w
 to wypisanie przedziałów, które były już wczytane do pamięci wcześniej i które zostaną teraz 
 wykorzystane. Na koniec powinna uzupełnić przetrzymywaną lokalnie informację o 
 odczytanych już przedziałach o nowy zakres i wypisać wszystkie te przedziały. Przykładowo:
-Otrzymano zadanie odczytu z przedzialu: 2019.04.26 06:30:00 – 2019.04.26 10:00:00
-Czytanie z dysku plikow z przedzialu: 2019.04.26 07:05:31 – 2019.04.26 08:00:00
-Czytanie z dysku plikow z przedzialu: 2019.04.26 08:20:10 – 2019.04.26 08:20:30
+a. Otrzymano zadanie odczytu z przedzialu: 2019.04.26 06:30:00 – 2019.04.26 10:00:00
+b. Czytanie z dysku plikow z przedzialu: 2019.04.26 07:05:31 – 2019.04.26 08:00:00
+c. Czytanie z dysku plikow z przedzialu: 2019.04.26 08:20:10 – 2019.04.26 08:20:30
 Czytanie z dysku plikow z przedzialu: 2019.04.26 09:50:00 – 2019.04.26 10:00:00
 Wykorzystanie wczytanego przedzialu: 2019.04.26 06:30:00 – 2019.04.26 07:05:30
 Wykorzystanie wczytanego przedzialu: 2019.04.26 08:00:01 – 2019.04.26 08:20:09
